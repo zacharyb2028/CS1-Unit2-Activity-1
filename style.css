@@ -12,6 +12,7 @@
 #box1 {
     justify-content:space-evenly;
     background-color: rgb(29, 92, 29);
+    color:white;
 }
 
 #box2 {
@@ -22,9 +23,11 @@
 #box3 {
     justify-content:center;
     background-color: gainsboro;
+    color:rgb(5, 5, 5)
 }
 
 #box4 {
     justify-content:center;
     background-color: rgb(29, 92, 29);
+    color:white;
 }
