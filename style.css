@@ -1,11 +1,11 @@
 .flexbox {
     display: flex;
-    border: 2px solid rgb(5, 5, 144);
     padding: 20px;
+    border-radius: 5%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
 
 .item {
-    border: 2px solid rgb(174, 211, 88);
     padding: 20px;
 }
 
@@ -13,11 +13,15 @@
     justify-content:space-evenly;
     background-color: rgb(29, 92, 29);
     color:white;
+
 }
 
 #box2 {
     justify-content:center;
     background-color: aliceblue;
+    text-align: center;
+    color:darkblue;
+    font: size 19px;
 }
 
 #box3 {
@@ -30,4 +34,8 @@
     justify-content:center;
     background-color: rgb(29, 92, 29);
     color:white;
+}
+
+img {
+    border-radius: 15%;
 }
